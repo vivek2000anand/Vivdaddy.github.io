@@ -1,22 +1,24 @@
-name: Updater (WIP)
+name: Build and Deploy
 
 on:
-  schedule:
-    - cron: 0 0 * * 0
+  push:
+    branches:
+      - main
 
 jobs:
-  update:
-    if: github.repository_owner == 'wowchemy'
+  build:
+
     runs-on: ubuntu-latest
+
     steps:
-      - uses: wowchemy/gh-action-updater@v1
-        with:
-          feed-url: https://wowchemy.com/blog/index.xml
-          readme-section: news
-          branch: main
-      - name:  Hugo Deploy GitHub Pages
-        uses: benmatselby/hugo-deploy-gh-pages@master
-        env:
-          HUGO_VERSION: 0.68.3
-          TARGET_REPO: Vivdaddy/Vivdaddy.github.io
-          TOKEN: ${{ secrets.WEBSITE_TOKEN }}
+    - name: Checkout main
+      uses: actions/checkout@v1
+      with:
+        submodules: true
+
+    - name: Hugo Deploy GitHub Pages
+      uses: benmatselby/hugo-deploy-gh-pages@master
+      env:
+        HUGO_VERSION: 0.68.3
+        TARGET_REPO: Vivdaddy/Vivdaddy.github.io
+        TOKEN: ${{ secrets.WEBSITE_TOKEN }}
