@@ -30,9 +30,9 @@ tags:
 - Source Themes
 featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
+# links:
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: https://www.sigmetrics.org/mama/2021/abstracts/Su.pdf
 # url_code: ''
 # url_dataset: '#'

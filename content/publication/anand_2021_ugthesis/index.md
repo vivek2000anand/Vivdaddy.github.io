@@ -27,9 +27,9 @@ tags:
 - Source Themes
 featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
+# links:
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: https://honors.libraries.psu.edu/files/final_submissions/7212''
 #url_dataset: '#'
 #url_poster: '#'
