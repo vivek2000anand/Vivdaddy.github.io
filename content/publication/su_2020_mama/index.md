@@ -23,6 +23,7 @@ publication_short: ""
 
 abstract: We study the scheduling problem of precedence-constrained tasks to balance between performance and energy consumption. To this point, scheduling to balance performance and energy has been limited to settings without dependencies between jobs. In this extended abstract, we consider a system with multiple servers capable of speed scaling and seek to schedule precedence constrained jobs to minimize a linear combination of performance and energy consumption. Inspired by the single server setting, we propose the concept of pseudo-size for individual tasks, which is a measure of the importance of a task in the precedence graph that is learned from workload data. We then propose a two-stage learningaugmented list scheduling algorithm which uses the learned pseudo-size approximation and achieves a provable approximation bound on the linear combination of performance and energy consumption, where the quality of the bound depends on that of the approximation of task pseudo-sizes, for both makespan and total weighted completion time.
 
+publication: '*ACM SIGMETRICS Performance Evaluation Review*'
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 

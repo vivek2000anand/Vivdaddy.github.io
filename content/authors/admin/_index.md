@@ -21,7 +21,7 @@ organizations:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Computer Science; Specialization in Machine Learning
+    - course: M.S. in Computer Science - Specialization in Machine Learning
       institution: Georgia Institute of Technology
       year: 2023
     - course: B.S. (Honors) in Computer Science

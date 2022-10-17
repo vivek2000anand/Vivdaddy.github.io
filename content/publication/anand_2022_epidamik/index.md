@@ -20,7 +20,7 @@ publication: ""
 publication_short: ""
 
 abstract: Healthcare Associated Infections (HAIs) like MRSA are a major threat to our hospitals and public health systems that significantly affect lives and resources. Unlike many common transmissible diseases, HAIs spread not only via direct person to person contacts but also indirectly through infected surfaces. Consequently, many of the standard epidemiological models like SIS, SEIR etc. cannot be used here. As a result, recently, many 2 Mode models were developed where people and surfaces behave differently allowing the pathogen to spread both via people and surfaces. However, these 2-Mode models are linear and cannot model non-linear contagions andgroupinteractions effectively. In this paper, we present an agent based 2-Mode Hypergraph based Model and show that it is more expressive than the graph based benchmark both theoretically and experimentally..
-
+publication: '*epiDAMIK 5.0: The 5th International workshop on Epidemiology meets Data Mining and Knowledge discovery at KDD 2022*'
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
