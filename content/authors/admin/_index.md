@@ -64,13 +64,13 @@ highlight_name: true
 ---
 
 Hi there!
-I'm currently a Masters Student in Computer Science, specializing in Machine Learning at Georgia Tech where I am currently advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). My research interests are at the intersection of Machine Learning, Biology and Statistics. I am interested both in applying machine learning and statistics for biological applications and using biologically inspired ideas to machine learning and statistical techniques. Currently, I am working on incorporating group information to better model Healthcare Associated Infections.
+I'm currently a Masters Student in Computer Science, specializing in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I am currently advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). My research interests are at the intersection of Machine Learning, Biology and Statistics. I am interested both in applying machine learning and statistics for biological applications and using biologically inspired ideas to machine learning and statistical techniques. Currently, I am working on incorporating group information to better model Healthcare Associated Infections.
 
 Previously, I was an Applied AI Intern at [Netomi](https://www.netomi.com/) where I was mentored with Dr. [Partho Nath](https://www.linkedin.com/in/partho-nath/). I worked on developing semi-supervised clustering methods to better analyze large customer service ticket datasets.
 
-In the Summer of 2020, I was a SURF Intern at Caltech where I was advised by Prof. [Adam Wierman](https://adamwierman.com/) and developed energy-aware algorithms to schedule precedence constrained tasks on multiple servers.
+In the Summer of 2020, I was a SURF Intern at [Caltech](https://www.caltech.edu/) where I was advised by Prof. [Adam Wierman](https://adamwierman.com/) and developed energy-aware algorithms to schedule precedence constrained tasks on multiple servers.
 
-I finished my undergraduate studies at Penn State where I completed my Honors thesis with Prof. [Daniel Kifer](https://www.cse.psu.edu/~duk17/) and worked on developing adversarial robust deep neural networks.
+I finished my undergraduate studies at [Penn State](https://www.psu.edu/) where I completed my Honors thesis with Prof. [Daniel Kifer](https://www.cse.psu.edu/~duk17/) and worked on developing adversarial robust deep neural networks.
 
 Other than research, I'm an avid reader 📚 and an overenthusiastic amateur cricket player 🏏. 
 The quickest way to reach me would be email.
