@@ -1,8 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "Modelling Healthcare Associated Infections with Hypergraphs"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Vivek Anand
+- B. Aditya Prakash
+date: "2022-08-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Healthcare Associated Infections (HAIs) like MRSA are a major threat to our hospitals and public health systems that significantly affect lives and resources. Unlike many common transmissible diseases, HAIs spread not only via direct person to person contacts but also indirectly through infected surfaces. Consequently, many of the standard epidemiological models like SIS, SEIR etc. cannot be used here. As a result, recently, many 2 Mode models were developed where people and surfaces behave differently allowing the pathogen to spread both via people and surfaces. However, these 2-Mode models are linear and cannot model non-linear contagions andgroupinteractions effectively. In this paper, we present an agent based 2-Mode Hypergraph based Model and show that it is more expressive than the graph based benchmark both theoretically and experimentally..
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -30,8 +31,8 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://openreview.net/pdf?id=fnSBxKRgslq
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -41,25 +42,24 @@ url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
