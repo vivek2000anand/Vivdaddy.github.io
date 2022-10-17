@@ -67,7 +67,7 @@ Hi there!
 
 I'm currently a Masters Student in Computer Science, specializing in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I am currently advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). 
 
-My research interests are at the intersection of Machine Learning, Biology and Statistics. I am interested both in applying machine learning and statistics for biological applications and using biologically inspired ideas to machine learning and statistical techniques. Currently, I am working on incorporating group information to better model Healthcare Associated Infections.
+My research interests are at the intersection of Machine Learning, Biology and Statistics. I am interested both in **applying machine learning and statistics for biological applications** and **using biologically inspired ideas to improve machine learning and statistical techniques**. Currently, I am working on incorporating group information to better model Healthcare Associated Infections.
 
 Previously, I was an Applied AI Intern at [Netomi](https://www.netomi.com/) where I was mentored with Dr. [Partho Nath](https://www.linkedin.com/in/partho-nath/). I worked on developing semi-supervised clustering methods to better analyze large customer service ticket datasets.
 
