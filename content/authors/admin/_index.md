@@ -10,7 +10,7 @@ last_name: Anand
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,6 +21,9 @@ organizations:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Machine Learning
+      institution: Georgia Institute of Technology
+      year: In Progress
     - course: M.S. in Computer Science - Specialization in Machine Learning
       institution: Georgia Institute of Technology
       year: 2023
@@ -65,15 +68,17 @@ highlight_name: true
 
 Hi there!
 
-I'm currently a Masters Student in Computer Science, specializing in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I am currently advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). 
+I'm currently a PhD Student in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I am currently advised by Prof. [Christopher Rozell](http://siplab.gatech.edu/rozell.html)
 
-My research interests are at the intersection of Machine Learning, Biology and Statistics. I am interested both in **applying machine learning and statistics for biological applications** and **using biologically inspired ideas to improve machine learning and statistical techniques**. Currently, I am working on incorporating group information in modelling Healthcare Associated Infections.
+My research interests are at the intersection of Machine Learning, Neuroscience and Economics. I am interested in **understanding how humans make decisions**. Currently I am examining how ordinal machine learning can help us understand motivation and cognitive effort.
 
-Previously, I was an Applied AI Intern at [Netomi](https://www.netomi.com/) where I was mentored with Dr. [Partho Nath](https://www.linkedin.com/in/partho-nath/). I worked on developing semi-supervised clustering methods to analyze large customer service ticket datasets.
+I finished my Masters in Computer Science, specializing in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I was currently advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). I incorporated group information in modelling Healthcare Associated Infections.
+
+Previously, I was an Applied AI Intern at [Netomi](https://www.netomi.com/) where I was mentored with Dr. [Partho Nath](https://www.linkedin.com/in/partho-nath/). I developed semi-supervised clustering methods to analyze large customer service ticket datasets.
 
 In the Summer of 2020, I was a SURF Intern at [Caltech](https://www.caltech.edu/) where I was advised by Prof. [Adam Wierman](https://adamwierman.com/). We developed energy-aware algorithms to schedule precedence constrained tasks on multiple servers.
 
-I finished my undergraduate studies at [Penn State](https://www.psu.edu/) where I completed my Honors thesis with Prof. [Daniel Kifer](https://www.cse.psu.edu/~duk17/). For my thesis, I worked on improving the scalability of certifiably adversarial robust deep neural networks.
+I finished my undergraduate studies, double majoring in Computer Science and Biology with a minor in Statistics, at [Penn State](https://www.psu.edu/) where I completed my Honors thesis with Prof. [Daniel Kifer](https://www.cse.psu.edu/~duk17/). For my thesis, I worked on improving the scalability of certifiably adversarial robust deep neural networks.
 
-Other than research, I'm an avid reader 📚 and an overenthusiastic amateur cricket player 🏏. 
+Other than research, I'm an enthusiastic amateur cricket player 🏏, avid reader 📚, and am learning Muay Thai 🥊. 
 The quickest way to reach me would be email.
