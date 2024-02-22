@@ -72,9 +72,9 @@ I'm currently a PhD Student in Machine Learning at [Georgia Tech](https://www.ga
 
 My research interests are at the intersection of Machine Learning, Neuroscience and Economics. I am interested in **understanding how humans make decisions**. Currently I am examining how ordinal machine learning can help us understand motivation and cognitive effort.
 
-I finished my Masters in Computer Science, specializing in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I was advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). I incorporated group information in modelling Healthcare Associated Infections.
+I finished my Masters in Computer Science, at [Georgia Tech](https://www.gatech.edu/), specializing in Machine Learning, where I was advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). I incorporated group information in modelling Healthcare Associated Infections.
 
-Previously, I was an Applied AI Intern at [Netomi](https://www.netomi.com/) where I was mentored by Dr. [Partho Nath](https://www.linkedin.com/in/partho-nath/). I developed semi-supervised clustering methods to analyze large customer service ticket datasets.
+Previously, I was an Applied AI Intern at [Netomi](https://www.netomi.com/), an AI for customer service startup, where I was mentored by Dr. [Partho Nath](https://www.linkedin.com/in/partho-nath/). I developed semi-supervised clustering methods for topic discovery in large customer service ticket datasets.
 
 In the Summer of 2020, I was a SURF Intern at [Caltech](https://www.caltech.edu/) where I was advised by Prof. [Adam Wierman](https://adamwierman.com/). We developed energy-aware algorithms to schedule precedence constrained tasks on multiple servers.
 
