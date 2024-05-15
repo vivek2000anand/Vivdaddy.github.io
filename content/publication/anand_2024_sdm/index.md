@@ -34,10 +34,10 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.32
+url_pdf: "https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.32"
 # url_code: ''
 # url_dataset: '#'
-url_poster: https://drive.google.com/file/d/1bR0O1VCXSQkWujHpxUTkUDOSxdtIqQCS/view?usp=sharing
+url_poster: "https://drive.google.com/file/d/1bR0O1VCXSQkWujHpxUTkUDOSxdtIqQCS/view?usp=sharing"
 # url_project: ''
 # url_slides: ''
 # url_source: '#'

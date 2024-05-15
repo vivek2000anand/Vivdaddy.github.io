@@ -33,8 +33,8 @@ featured: false
 
 # links:
 # - name: Custom Link
-url: https://link.springer.com/chapter/10.1007/978-3-031-53503-1_21
-url_pdf: https://link.springer.com/content/pdf/10.1007/978-3-031-53503-1_21.pdf?pdf=inline%20link
+url: "https://link.springer.com/chapter/10.1007/978-3-031-53503-1_21"
+url_pdf: "https://link.springer.com/content/pdf/10.1007/978-3-031-53503-1_21.pdf?pdf=inline%20link"
 # url_code: ''
 # url_dataset: '#'
 # url_poster: '#'
