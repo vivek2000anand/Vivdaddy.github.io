@@ -33,8 +33,8 @@ featured: false
 
 # links:
 # - name: Custom Link
-url: "https://www.sigmetrics.org/mama/2021/abstracts/Su.pdf"
-url_pdf: "https://www.sigmetrics.org/mama/2021/abstracts/Su.pdf"
+url: "//www.sigmetrics.org/mama/2021/abstracts/Su.pdf"
+url_pdf: "//www.sigmetrics.org/mama/2021/abstracts/Su.pdf"
 # url_code: ''
 # url_dataset: '#'
 # url_poster: '#'

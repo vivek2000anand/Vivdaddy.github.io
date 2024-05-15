@@ -32,8 +32,8 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2209.08180
-url_code: https://github.com/matthewyangcs/mitigating-filter-bubbles-final
+url_pdf: //arxiv.org/pdf/2209.08180
+url_code: //github.com/matthewyangcs/mitigating-filter-bubbles-final
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
