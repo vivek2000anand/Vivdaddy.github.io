@@ -68,9 +68,9 @@ highlight_name: true
 
 Hi there!
 
-I'm currently a PhD Student in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I am currently advised by Prof. [Christopher Rozell](http://siplab.gatech.edu/rozell.html)
+I'm currently a PhD Student in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I am currently advised by Prof. [Christopher Rozell](http://siplab.gatech.edu/rozell.html).
 
-My research interests are at the intersection of Machine Learning, Neuroscience and Economics. I am interested in **understanding how humans make decisions**. Currently I am examining how ordinal machine learning can help us understand motivation and cognitive effort.
+My research interests are at the intersection of Machine Learning, Neuroscience and Economics. I am interested in **understanding how humans make decisions**. Currently I am examining how comparison based machine learning can help us understand motivation and cognitive effort.
 
 I finished my Masters in Computer Science, at [Georgia Tech](https://www.gatech.edu/), specializing in Machine Learning, where I was advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). I incorporated group information in modelling Healthcare Associated Infections.
 
