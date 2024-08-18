@@ -24,7 +24,7 @@ education:
     - course: Ph.D. in Machine Learning
       institution: Georgia Institute of Technology
       year: In Progress
-    - course: M.S. in Computer Science - Specialization in Machine Learning
+    - course: M.S. in Computer Science
       institution: Georgia Institute of Technology
       year: 2023
     - course: B.S. (Honors) in Computer Science
@@ -68,9 +68,9 @@ highlight_name: true
 
 Hi there!
 
-I'm currently a PhD Student in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I am currently advised by Prof. [Christopher Rozell](http://siplab.gatech.edu/rozell.html).
+I'm currently a PhD Student in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I am currently advised by Prof. [Christopher Rozell](http://siplab.gatech.edu/rozell.html) and Dr. [Sankaraleengam Alagapan](https://www.sankaralagapan.com/).
 
-My research interests are at the intersection of Machine Learning, Neuroscience and Economics. I am interested in **understanding how humans make decisions**. Currently I am examining how comparison based machine learning can help us understand motivation and cognitive effort.
+My research interests are at the intersection of Machine Learning, Neuroscience and Economics. I am interested in **understanding how people make decisions**. Currently I am working on 1) developing comparison based machine learning algorithms to learn about subjective percepts like motivation and cognitive effort and 2) using Stereoelectroencephalography to reveal the neural dynamics of effort-based decision-making.
 
 I finished my Masters in Computer Science, at [Georgia Tech](https://www.gatech.edu/), specializing in Machine Learning, where I was advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). I incorporated group information in modelling Healthcare Associated Infections.
 
@@ -80,6 +80,6 @@ In the Summer of 2020, I was a SURF Intern at [Caltech](https://www.caltech.edu/
 
 I finished my undergraduate studies, double majoring in Computer Science and Biology with a minor in Statistics, at [Penn State](https://www.psu.edu/) where I completed my Honors thesis with Prof. [Daniel Kifer](https://www.cse.psu.edu/~duk17/). For my thesis, I worked on improving the scalability of certifiably adversarial robust deep neural networks.
 
-Other than research, I'm an enthusiastic amateur cricket player 🏏, avid reader 📚, and learn Muay Thai 🥊. 
+Other than research, I'm an enthusiastic amateur cricket player 🏏 an avid reader 📚, and learn Muay Thai 🥊. 
 
 If you would like to get in contact with me, feel free to reach out via email.
