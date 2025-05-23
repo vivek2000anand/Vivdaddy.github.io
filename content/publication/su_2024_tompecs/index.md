@@ -34,8 +34,8 @@ featured: false
 
 # links:
 # - name: Custom Link
-url: "https://dl.acm.org/doi/pdf/10.1145/3680278"
-url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3680278"
+url: "//www.dl.acm.org/doi/pdf/10.1145/3680278"
+url_pdf: "//www.dl.acm.org/doi/pdf/10.1145/3680278"
 # url_code: ''
 # url_dataset: '#'
 # url_poster: '#'
